@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Jerin Andrews, and I attend The University of Texas at Austin, where I am majoring in Electrical and Computer Engineering. Because backend web development and infrastructure are so dependent on system design, these are the areas in which I'm most interested, and I'm currently searching for internships in these fields.
 <!--
 **jerin-t-andrews/jerin-t-andrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
