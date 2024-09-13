@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jerin Andrews, and I attend The University of Texas at Austin, where I am majoring in Electrical and Computer Engineering. With a strong interest in system design, I've become particularly passionate about backend web development and infrastructure, and I'm currently on the lookout for internships in these fields.
+I'm Jerin Andrews, and I attend The University of Texas at Austin, where I am majoring in Electrical and Computer Engineering with a minor in Robotics. With a strong interest in system design, I've become particularly passionate about backend web development and infrastructure, and I'm currently on the lookout for internships in these fields.
 
   > Languages: Python, C, C++, Java, JavaScript, TypeScript
   
