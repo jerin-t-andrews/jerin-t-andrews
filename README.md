@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Jerin Andrews, and I attend The University of Texas at Austin, where I am majoring in Electrical and Computer Engineering with a minor in Robotics. With a strong interest in system design, I've become particularly passionate about backend development and infrastructure.
+I'm Jerin Andrews, and I attend The University of Texas at Austin, where I am majoring in Electrical and Computer Engineering with a minor in Robotics. With a strong interest in distributed database design and data management, I've become particularly passionate about backend development and core/ml infrastructure.
 
-  > Languages: Python, C, C++, Java, JavaScript, TypeScript, SQL
+  > Languages: Python, Java, SQL, C, C++, JavaScript, TypeScript
   
   > Tools: Next.js, React.js, Express.js, MongoDB, Unity, Arduino, MSPM0, Linux
 <!--
